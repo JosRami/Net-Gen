@@ -1,0 +1,8 @@
+﻿  test.cpp
+E:\NetGen\NetGen-AutoGen\First-Diagram-Test\test.cpp(59,15): warning C4552: '-': result of expression not used
+E:\NetGen\NetGen-AutoGen\First-Diagram-Test\test.cpp(63,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\NetGen\NetGen-AutoGen\First-Diagram-Test\test.cpp(76,17): warning C4552: '-': result of expression not used
+E:\NetGen\NetGen-AutoGen\First-Diagram-Test\test.cpp(80,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+E:\NetGen\NetGen-AutoGen\First-Diagram-Test\test.cpp(93,15): warning C4552: '-': result of expression not used
+E:\NetGen\NetGen-AutoGen\First-Diagram-Test\test.cpp(97,21): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  First-Diagram-Test.vcxproj -> E:\NetGen\NetGen-AutoGen\First-Diagram-Test\Debug\First-Diagram-Test.exe

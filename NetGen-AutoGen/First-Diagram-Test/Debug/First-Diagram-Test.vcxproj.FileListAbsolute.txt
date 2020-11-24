@@ -1,0 +1,2 @@
+E:\NetGen\NetGen-AutoGen\First-Diagram-Test\Debug\First-Diagram-Test.exe
+E:\NetGen\NetGen-AutoGen\First-Diagram-Test\Debug\First-Diagram-Test.pdb
